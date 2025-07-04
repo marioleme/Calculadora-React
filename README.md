@@ -22,7 +22,7 @@ Abra http://localhost:3000 para visualizá-lo no seu navegador.
 1.  **Clone o repositório**
     > Lembre-se de substituir `SEU-USUARIO` pelo seu nome de usuário do GitHub.
     ```sh
-    git clone https://github.com/SEU-USUARIO/Calculadora-React.git
+    git clone https://github.com/marioleme/Calculadora-React
     ```
     
 2.  **Navegue até o diretório do projeto**
