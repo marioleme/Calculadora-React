@@ -124,7 +124,7 @@ export default function App() {
       <div className="container">
        
         {Tela(valorTela, resultado)}
-        <div className="botoes">
+        <div className="botoes" aria-label="calcular">
           {btn("AC", limparMemoria, "btnOper")}
           {btn("(", () => addDigitoTela("("), "btnOper")}
           {btn(")", () => addDigitoTela(")"), "btnOper")}
@@ -154,7 +154,7 @@ export default function App() {
       </section>
       <footer className="center-footer">
 
-        <p>Desenvolvido por <a href="https://www.linkedin.com/in/marioooliveira" target="_blank" rel="noreferrer">Mario Oliveira</a></p>
+        <p>Desenvolvido por <a href="https://www.linkedin.com/in/marioooliveira" target="_blank" aria-label="Mario Oliveira" rel="noreferrer">Mario Oliveira</a></p>
       </footer>
     </>
   );
