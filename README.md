@@ -1,6 +1,9 @@
 ## 🧮 Calculadora em React
 ![Demonstração da Calculadora](./screenshot-calculadora.jpg)
 
+## 🔗 Acessar a Calculadora
+[Calculadora](https://calculadore.weboliveira.top/)
+
 Este é um projeto de uma calculadora simples desenvolvida com React.
 Este é um projeto de uma calculadora simples desenvolvida com React como parte dos meus estudos em desenvolvimento front-end. O objetivo foi praticar a criação de componentes, manipulação de estado e eventos no React.
 
@@ -106,3 +109,5 @@ Esta seção foi movida para aqui: https://facebook.github.io/create-react-app/d
 
 Esta seção foi movida aqui: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
 Este projeto foi inicializado com Create React App.
+
+
