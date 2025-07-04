@@ -4,7 +4,7 @@
 Este é um projeto de uma calculadora simples desenvolvida com React.
 Este é um projeto de uma calculadora simples desenvolvida com React como parte dos meus estudos em desenvolvimento front-end. O objetivo foi praticar a criação de componentes, manipulação de estado e eventos no React.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Este projeto foi iniciado com [Create React App](https://github.com/facebook/create-react-app).
 ## ✨ Tecnologias Utilizadas
 
 - [React](https://reactjs.org/)
